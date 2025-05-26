@@ -1,6 +1,6 @@
-# 🎉 Music Party
+# 🎉 TuneTalk
 
-**Music Party** is a modern web application that allows users to host and join collaborative music listening sessions. Built with React, TypeScript, Tailwind CSS, and Vite, this project is fast, responsive, and perfect for real-time music sharing.
+**TuneTalk** is a modern web application that allows users to host and join collaborative music listening sessions. Built with React, TypeScript, Tailwind CSS, and Vite, this project is fast, responsive, and perfect for real-time music sharing.
 
 ---
 
