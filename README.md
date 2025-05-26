@@ -35,5 +35,21 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/music-party.git
-   cd music-party
+   git clone https://github.com/ronaessi-28/TuneTalk.git
+   cd TuneTalk
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+
+3. **Run the development server**:
+   ```bash
+   npm run dev
+
+4. **Open your browser and visit**:
+   ```bash
+   http://localhost:5173
+
+
+📜 License
+This project is open-source and available under the MIT License.
